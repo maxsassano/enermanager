@@ -1,0 +1,72 @@
+# ============================================================
+# EnerManager - .gitignore
+# ============================================================
+
+# --- Visual Studio / Rider / VS Code ---
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# --- Build output ---
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.zip
+*.7z
+
+# --- .NET / MAUI ---
+*.binlog
+project.lock.json
+project.fragment.lock.json
+artifacts/
+Debug/
+Release/
+x64/
+x86/
+publish/
+
+# --- Windows ---
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# --- Dati app EnerManager (non devono MAI finire sul repo) ---
+*.db3
+*.db
+*.sqlite
+*.sqlite3
+.licensed
+.trial
+Rapportini/
+Report/
+Schede/
+Backup/
+Foto/
+Manuale/
+
+# --- Segreti ---
+appsettings.json
+appsettings.*.json
+secrets.json
+*.pfx
+*.snk
+
+# --- Log e temporanei ---
+*.log
+*.tmp
+*.temp
+~$*
+*.swp
+*~
