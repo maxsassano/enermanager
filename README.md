@@ -4,6 +4,30 @@
 
 App desktop Windows, leggera e completa. Funziona **offline**: tutti i dati restano sul tuo PC in un database locale. Niente cloud, niente abbonamenti mensili.
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="screen/main_enermanager.png" width="450"><br>
+      <sub>Schermata principale</sub>
+    </td>
+    <td align="center">
+      <img src="screen/calend_enermanager.png" width="450"><br>
+      <sub>Calendario</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screen/storico_enermanager.png" width="450"><br>
+      <sub>Storico</sub>
+    </td>
+    <td align="center">
+      <img src="screen/info_enermanager.png" width="450"><br>
+      <sub>Info</sub>
+    </td>
+  </tr>
+</table>
+
+
 ---
 
 ## 📥 Download
