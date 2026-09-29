@@ -127,3 +127,14 @@ Per problemi, domande o richieste:
 
 Il software è proprietario. Il codice sorgente non è pubblico.
 Il presente repository contiene **solo documentazione e release binarie**.
+
+## ☕ Sostieni il progetto
+
+Se l'app ti è utile, puoi offrirmi un caffè:
+
+[![PayPal](https://img.shields.io/badge/PayPal-Offrimi%20un%20caffè-0070BA?logo=paypal)](https://paypal.me/veruscatanese)
+
+
+Ogni contributo aiuta a mantenere il progetto attivo e senza pubblicità. Grazie! 🙏
+
+
