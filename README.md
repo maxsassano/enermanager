@@ -63,6 +63,7 @@ Vai nella sezione [**Releases**](../../releases) e scarica l'ultima versione:
 ## 🔑 Licenza
 
 EnerManager è **software commerciale**.
+[![License](https://img.shields.io/badge/license-MIT-orange)](LICENSE)
 
 - **Prova gratuita di 7 giorni** — parte automaticamente al primo avvio
 - **Licenza attivata** — illimitata, sbloccata tramite **seriale**
